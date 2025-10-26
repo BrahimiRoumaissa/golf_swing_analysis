@@ -1,0 +1,5 @@
+train: ../data/images/train
+val: ../data/images/val
+
+nc: 9
+names: ['head','left_shoulder','right_shoulder','left_elbow','right_elbow','left_hip','right_hip','left_knee','right_knee','club_head']

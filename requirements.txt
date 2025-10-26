@@ -1,0 +1,13 @@
+opencv-python
+numpy
+matplotlib
+pandas
+pyyaml
+streamlit
+torch
+ultralytics
+pillow
+tqdm
+scipy
+imageio
+imageio-ffmpeg
