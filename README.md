@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A simple starter repository for a Golf Swing Analysis System using YOLO and OpenCV to process videos, extract frames, run detections, and visualize results.
+Golf Swing Analysis System using YOLO and OpenCV to process videos, extract frames, run detections, and visualize results.
 
 ## Features
 
@@ -56,6 +56,7 @@ Contributions are welcome. See `CONTRIBUTING.md` for guidelines.
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 # golf_swing_analysis.
+
 
 
 
